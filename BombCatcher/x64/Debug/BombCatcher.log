@@ -1,0 +1,5 @@
+﻿c:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(BombCatcher.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MyDirectX.cpp
+  MyGame.cpp
+  正在生成代码...
+  BombCatcher.vcxproj -> F:\work\TransparentSprite\x64\Debug\TransparentSprite.exe
